@@ -1,4 +1,4 @@
-# YoutubeTS API Tester
+# Youtube Video Transcript Free Api
 
 A simple, single-file PHP script to test the [YoutubeTS](https://youtubets.com) Transcript API. No database, no framework, no dependencies — just PHP + cURL.
 
